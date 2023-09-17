@@ -1,0 +1,37 @@
+[
+    {
+        "Name": "John Doe",
+        "DOB": "1990-05-15",
+        "Height": 175,
+        "City": "New York",
+        "State": "NY"
+    },
+    {
+        "Name": "Jane Smith",
+        "DOB": "1988-08-20",
+        "Height": 162,
+        "City": "Los Angeles",
+        "State": "CA"
+    },
+    {
+        "Name": "Bob Johnson",
+        "DOB": "1995-03-10",
+        "Height": 180,
+        "City": "Chicago",
+        "State": "IL"
+    },
+    {
+        "Name": "Alice Brown",
+        "DOB": "1985-12-05",
+        "Height": 168,
+        "City": "Houston",
+        "State": "TX"
+    },
+    {
+        "Name": "David Lee",
+        "DOB": "1992-07-25",
+        "Height": 172,
+        "City": "San Francisco",
+        "State": "CA"
+    }
+]
